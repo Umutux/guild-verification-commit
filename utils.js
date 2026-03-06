@@ -1,3 +1,3 @@
 Guild.xyz verification
-Timestamp: 2026-03-06T07:39:05.954Z
-Commit: Introduce real-time notifications
+Timestamp: 2026-03-06T07:39:10.399Z
+Commit: Fix memory leak in event handlers
